@@ -1,1 +1,1 @@
-TinDog Starting Files
+Tindog is a frontend for Tinder for Dogs
